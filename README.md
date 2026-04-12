@@ -36,7 +36,7 @@
 
 ##  Contribuições
 
-<img src="https://github.com/Srthaunt/Srthaunt/blob/output/github-contribution-grid-snake.svg"/>
+![Snake animation](https://github.com/Srthaunt/Srthaunt/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
